@@ -1,0 +1,15 @@
+.container {
+    min-height: calc(100vh - 70px);
+    display: flex;
+    background-image: url('./5bbc1f6e4b864-5adb185340f47d326721c44d24adf3f6.png');
+    background-repeat: no-repeat;
+    background-position: top -160px right -700px;
+}
+
+.title {
+    padding-left: 100px;
+    padding-top: 70px;
+    font-weight: 500;
+    font-size: 80px;
+    color: #ab3c3c;
+}
